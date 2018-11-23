@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2018-11-23T10:04:54.878303",
+  "connectionTimeOutError": "Connection timeout.",
+  "@connectionTimeOutError": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
